@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Pressure Sensor PDC")(type KiCad)(uri "${KIPRJMOD}/Library/Pressure Sensor PDC.pretty")(options "")(descr ""))
+)
